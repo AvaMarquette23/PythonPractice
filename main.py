@@ -1,12 +1,13 @@
-print("Hello World!")
-print("This is  interesting")
-
-#Print first movie
-print("Ready Player One")
-
-#Print second movie
-print("The Princess Bride")
-
-#Print third movie
-print("Any of the Harry Potter movies")
-f 
+#define function
+def topFiveMovies():
+    #print first movie
+    print("Ready Player One")
+    #print second movie
+    print("The Princess Bride")
+    #print third movie
+    print("Any Harry Potter Movie")
+    #print fourth movie
+    print("Free Guy")
+    #print fifth movie
+    print("Lord Of The Rings")
+topFiveMovies()
