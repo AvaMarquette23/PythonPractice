@@ -54,5 +54,11 @@ def topTwoBooks():
     print("Etiquette And Espionage")
 topTwoBooks()
 
+def myNameIs(turtle):
+    print(turtle + " is my name.")
+myNameIs("Ava")
+myNameIs("E")
+
+
 
 
