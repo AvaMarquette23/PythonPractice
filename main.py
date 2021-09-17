@@ -75,7 +75,9 @@ def addTwoNumbers(x, y):
     print(x + y)
 addTwoNumbers(38.76,1084)
 
-def madLib(instrument, number1, dayweek, letteraz, majorminor, number2, number3, adjective1, adjective2, fraction, adjective3, nameofinstrument, adjective4, noun, familymember, nameofasong, adejctiveed, favoriteartistcomposer):
+def madLib(instrument, number1, dayweek, letteraz, majorminor, number2, number3,
+ adjective1, adjective2, fraction, adjective3, nameofinstrument, adjective4, noun,
+  familymember, nameofasong, adejctiveed, favoriteartistcomposer):
     print("While I've  stayed at home, I've practiced the " +
     instrument + " for " +number1+ " hours every "+dayweek+". My favorite key signature to play and practice in is "
     +letteraz+" "+majorminor+". It has "+number2+" flats and "+number3+
